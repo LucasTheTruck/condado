@@ -1,3 +1,3 @@
 # condado
-Condado
-Repositório para guardar orações, pdfs e coisas que eu queira.
+Condado:
+Repositório para guardar orações, pdfs e qualquer coisa que eu queira.
